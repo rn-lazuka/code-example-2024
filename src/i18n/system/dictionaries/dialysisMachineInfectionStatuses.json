@@ -1,0 +1,11 @@
+{
+  "NON_INFECTION": "Non-infection",
+  "HEP_B": "Hep.B",
+  "HEP_C": "Hep.C",
+  "HIV": "HIV",
+  "HEP_B_HEP_C": "Hep.B+Hep.C",
+  "HEP_B_HIV": "Hep.B+HIV",
+  "HEP_C_HIV": "Hep.C+HIV",
+  "HEP_B_HEP_C_HIV": "Hep.B+Hep.C+HIV",
+  "UNKNOWN": "Unknown"
+}

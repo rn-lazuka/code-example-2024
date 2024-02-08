@@ -1,0 +1,8 @@
+{
+  "OnceADay": "onceADay",
+  "TwiceADay": "twiceADay",
+  "ThreeADay": "threeTimesADay",
+  "OnceAWeek": "onceAWeek",
+  "OnceAMonth": "onceAMonth",
+  "WhenNecessary": "whenNecessary"
+}

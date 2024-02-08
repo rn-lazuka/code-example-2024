@@ -1,0 +1,8 @@
+{
+  "ONCE_PER_DAY": "1x per day",
+  "TWICE_PER_DAY": "2x per day",
+  "THREE_TIMES_PER_DAY": "3x per day",
+  "ONCE_PER_WEEK": "1x per week",
+  "ONCE_PER_MONTH": "1x per month",
+  "OTHER": "when necessary"
+}

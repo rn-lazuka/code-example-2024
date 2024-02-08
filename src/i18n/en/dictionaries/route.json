@@ -1,0 +1,15 @@
+{
+  "Oral": "Oral",
+  "Subcutaneous": "Subcutaneous",
+  "Intramuscular": "Intramuscular",
+  "Intravenous": "Intravenous",
+  "Infused": "Infused",
+  "Sublingual": "Sublingual",
+  "Ophthalmic": "Ophthalmic",
+  "Per Nasal": "Per Nasal",
+  "Inhale": "Inhale",
+  "Topical": "Topical",
+  "Transdermal": "Transdermal",
+  "Per Rectum": "Per Rectum",
+  "Per Otic": "Per Otic"
+}

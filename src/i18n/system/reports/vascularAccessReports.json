@@ -1,0 +1,27 @@
+{
+  "tableView": {
+    "patientName": "tableView.patientName",
+    "branch": "tableView.branch",
+    "dateOfCreation": "tableView.dateOfCreation",
+    "accessCategory": "tableView.accessCategory",
+    "typeOfAccess": "tableView.typeOfAccess",
+    "category": "tableView.category",
+    "side": "tableView.side",
+    "needleType": "tableView.needleType",
+    "needleSizeA": "tableView.needleSizeA",
+    "needleSizeV": "tableView.needleSizeV",
+    "instillationCVC": "tableView.instillationCVC",
+    "createdBy": "tableView.createdBy",
+    "createdAt": "tableView.createdAt",
+    "comments": "tableView.comments"
+  },
+  "filters": {
+    "date": "filters.date",
+    "Vascular": "filters.Vascular",
+    "AVF": "filters.AVF",
+    "AVG": "filters.AVG",
+    "CVC": "filters.CVC",
+    "PERMANENT": "filters.PERMANENT",
+    "TEMPORARY": "filters.TEMPORARY"
+  }
+}

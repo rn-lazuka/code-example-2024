@@ -1,0 +1,37 @@
+{
+  "UNKNOWN": {},
+  "HD_RELATED": {
+    "anemia": "HD_RELATED.anemia",
+    "crbsi": "HD_RELATED.crbsi",
+    "fluidOverload": "HD_RELATED.fluidOverload",
+    "highPotassium": "HD_RELATED.highPotassium",
+    "uncontrolledDiabetesMellitus": "HD_RELATED.uncontrolledDiabetesMellitus",
+    "uncontrolledHypertension": "HD_RELATED.uncontrolledHypertension",
+    "others": "HD_RELATED.others"
+  },
+  "NON_HD_RELATED": {
+    "cardiac": "NON_HD_RELATED.cardiac",
+    "dermatology": "NON_HD_RELATED.dermatology",
+    "endocrine": "NON_HD_RELATED.endocrine",
+    "gastrointestinal": "NON_HD_RELATED.gastrointestinal",
+    "haematology": "NON_HD_RELATED.haematology",
+    "infection": "NON_HD_RELATED.infection",
+    "neurology": "NON_HD_RELATED.neurology",
+    "orthopaedic": "NON_HD_RELATED.orthopaedic",
+    "psychiatry": "NON_HD_RELATED.psychiatry",
+    "pulmonary": "NON_HD_RELATED.pulmonary",
+    "rheumatology": "NON_HD_RELATED.rheumatology",
+    "surgical": "NON_HD_RELATED.surgical",
+    "trauma": "NON_HD_RELATED.trauma",
+    "others": "NON_HD_RELATED.others"
+  },
+  "VASCULAR_RELATED": {
+    "bleeding": "VASCULAR_RELATED.bleeding",
+    "catheterInsertion": "VASCULAR_RELATED.catheterInsertion",
+    "catheterInsertionSurgery": "VASCULAR_RELATED.catheterInsertionSurgery",
+    "infection": "VASCULAR_RELATED.infection",
+    "stenosis": "VASCULAR_RELATED.stenosis",
+    "thrombosed": "VASCULAR_RELATED.thrombosed",
+    "other": "VASCULAR_RELATED.others"
+  }
+}

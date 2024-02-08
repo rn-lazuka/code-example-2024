@@ -1,0 +1,7 @@
+{
+  "ACTIVE": "Active",
+  "STANDBY": "Standby",
+  "SPARE": "Spare",
+  "RETIRED": "Retired",
+  "UNDER_REPAIR": "Under repair"
+}

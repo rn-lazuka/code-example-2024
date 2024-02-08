@@ -1,0 +1,50 @@
+{
+  "dialysisMachines": "dialysisMachines",
+  "nonInfection": "nonInfection",
+  "table": {
+    "name": "table.name",
+    "status": "table.status",
+    "serialNumber": "table.serialNumber",
+    "model": "table.model",
+    "brand": "table.brand",
+    "connectedBay": "table.connectedBay",
+    "warranty": "table.warranty",
+    "infectionStatus": "table.infectionStatus"
+  },
+  "form": {
+    "title": "form.title",
+    "generalInformation": "form.generalInformation",
+    "condition": "form.condition",
+    "maintenanceDateRange": "form.maintenanceDateRange",
+    "onceTheDmIsSavedInTheInfectiousStatus": "form.onceTheDmIsSavedInTheInfectiousStatus",
+    "warrantyDateRange": "form.warrantyDateRange",
+    "comments": "form.comments",
+    "fields": {
+      "equipmentName": "form.fields.equipmentName",
+      "serialNumber": "form.fields.serialNumber",
+      "model": "form.fields.model",
+      "brand": "form.fields.brand",
+      "communicationType": "form.fields.communicationType",
+      "slots": "form.fields.slots",
+      "equipmentDescription": "form.fields.equipmentDescription",
+      "status": "form.fields.status",
+      "commissionedDate": "form.fields.commissionedDate",
+      "infectionStatus": "form.fields.infectionStatus",
+      "connectedBay": "form.fields.connectedBay",
+      "from": "form.fields.from",
+      "to": "form.fields.to",
+      "comments": "form.fields.comments"
+    }
+  },
+  "snacks": {
+    "hasBeenAdded": "snacks.hasBeenAdded",
+    "hasBeenChanged": "snacks.hasBeenChanged"
+  },
+  "machineStatuses": {
+    "active": "machineStatuses.active",
+    "underRepair": "machineStatuses.underRepair",
+    "retired": "machineStatuses.retired",
+    "standby": "machineStatuses.standby",
+    "spare": "machineStatuses.spare"
+  }
+}

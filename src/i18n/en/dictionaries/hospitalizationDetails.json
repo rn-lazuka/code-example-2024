@@ -1,0 +1,37 @@
+{
+  "UNKNOWN": {},
+  "HD_RELATED": {
+    "anemia": "Anemia",
+    "crbsi": "CRBSI",
+    "fluidOverload": "Fluid overload",
+    "highPotassium": "High Potassium",
+    "uncontrolledDiabetesMellitus": "Uncontrolled Diabetes Mellitus",
+    "uncontrolledHypertension": "Uncontrolled Hypertension",
+    "others": "Others"
+  },
+  "NON_HD_RELATED": {
+    "cardiac": "Cardiac",
+    "dermatology": "Dermatology",
+    "endocrine": "Endocrine",
+    "gastrointestinal": "Gastrointestinal",
+    "haematology": "Haematology",
+    "infection": "Infection",
+    "neurology": "Neurology",
+    "orthopaedic": "Orthopaedic",
+    "psychiatry": "Psychiatry",
+    "pulmonary": "Pulmonary",
+    "rheumatology": "Rheumatology",
+    "surgical": "Surgical",
+    "trauma": "Trauma",
+    "others": "Others"
+  },
+  "VASCULAR_RELATED": {
+    "bleeding": "Bleeding",
+    "catheterInsertion": "Catheter insertion",
+    "catheterInsertionSurgery": "Catheter insertion (Surgery)",
+    "infection": "Infection",
+    "stenosis": "Stenosis",
+    "thrombosed": "Thrombosed",
+    "other": "Others"
+  }
+}

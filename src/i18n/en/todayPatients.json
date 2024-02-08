@@ -1,0 +1,41 @@
+{
+  "todayPatients": "Today Patients",
+  "noTodayPatients": "No today patients",
+  "injections": {
+    "injections": "Injections"
+  },
+  "tableView": {
+    "hdProgress": "HD progress",
+    "patientName": "Patient name",
+    "bay": "Bay",
+    "startTime": "Start time",
+    "endTime": "End time",
+    "checkIn": "Check In",
+    "isolation": "Isolation",
+    "continue": "Continue",
+    "specialNotes": "Special notes",
+    "additionalAttention": "Additional attention needed",
+    "labTests": "Lab tests",
+    "medicationsChanges": "Medications changes",
+    "isolator": "Isolator",
+    "status": "Status",
+    "time": "Time",
+    "na": "N.A.",
+    "idwg": "IDWG"
+  },
+  "injectionsTableView": {
+    "patientName": "Patient name",
+    "bay": "Bay",
+    "todayInjections": "Today injections",
+    "prepared": "Prepared",
+    "status": "Status",
+    "amount": "Amount"
+  },
+  "filter": {
+    "ALL": "All",
+    "WAIT_LIST": "Waitlist",
+    "IN_PROGRESS": "In-Progress",
+    "COMPLETED": "Completed",
+    "CANCELLED": "Skipped"
+  }
+}

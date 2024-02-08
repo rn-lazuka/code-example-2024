@@ -1,0 +1,13 @@
+{
+  "HAEMATOLOGY": "Haematology",
+  "BIOCHEMISTRY": "Biochemistry",
+  "SERUM_PLASMA_GLUCOSE": "Serum / Plasma Glucose",
+  "HIV_SCREENING": "HIV Screening",
+  "HEPATITIS_SEROLOGY": "Hepatitis Serology",
+  "IRON_STUDIES": "Iron Studies",
+  "HORMONE_STUDIES": "Hormone Studies",
+  "LIPIDS": "Lipids",
+  "SPECIAL_CHEMISTRY": "Special Chemistry",
+  "POST_UREA": "Post Urea",
+  "OTHERS": "Others"
+}

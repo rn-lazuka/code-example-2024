@@ -1,0 +1,11 @@
+{
+  "with meal": "withMeal",
+  "before meal": "beforeMeal",
+  "before breakfast": "beforeBreakfast",
+  "after breakfast": "afterBreakfast",
+  "before lunch": "beforeLunch",
+  "after lunch": "afterLunch",
+  "before dinner": "beforeDinner",
+  "after dinner": "afterDinner",
+  "none": "none"
+}

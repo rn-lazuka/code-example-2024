@@ -1,0 +1,34 @@
+{
+  "dialysisMachineInformation": "Dialysis machine information",
+  "sidebar": {
+    "information": "Information",
+    "historyLog": "History log"
+  },
+  "snacks": {
+    "dialysisMachineHasBeenAdded": "Dialysis machine has been added",
+    "dialysisMachineHasNotBeenAdded": "Dialysis machine has not been added. Please try again",
+    "dialysisMachineHasBeenUpdated": "Dialysis machine has been updated",
+    "dialysisMachineHasNotBeenUpdated": "Dialysis machine has not been updated. Please try again"
+  },
+  "data": {
+    "general": "General",
+    "condition": "Condition",
+    "maintenance": "Maintenance",
+    "warranty": "Warranty",
+    "equipmentName": "Equipment name",
+    "serialNumber": "Serial number",
+    "model": "Model",
+    "brand": "Brand",
+    "communicationType": "Communication type",
+    "slots": "Slots",
+    "description": "Equipment description",
+    "status": "Status",
+    "commissionDate": "Commission date",
+    "infectionStatus": "Infection status",
+    "connectedBay": "Connected bay",
+    "underMaintenance": "Under maintenance",
+    "dateOfPreventiveMaintenance": "Date of preventive maintenance",
+    "underWarranty": "Under warranty",
+    "warrantyDateRange": "Warranty date range"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "jest/globals": true
+  },
+  "globals": {
+    "APP_VERSION": "readonly",
+    "MODULE_DYNAMIC_ORIGIN": "readonly",
+    "MODULE_ORIGIN": "readonly",
+    "MODULE_USER_MANAGEMENT_ACTIVE": "readonly",
+    "MODULE_BILLING_ACTIVE": "readonly",
+    "DISABLE_EXP_TOKEN_UPDATE_FOR_TENANTS": "readonly",
+    "DEVELOPMENT_API_TARGET": "readonly",
+    "ENVIRONMENT_VARIABLES": "readonly"
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:prettier/recommended",
+    "plugin:jest/recommended"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "plugins": ["react", "@typescript-eslint", "jest"],
+  "rules": {
+    "react/react-in-jsx-scope": "off",
+    "no-unused-vars": "off",
+    "@typescript-eslint/no-unused-vars": ["error"],
+    "jest/no-disabled-tests": "off"
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "dialysisMachineInformation": "dialysisMachineInformation",
+  "sidebar": {
+    "information": "sidebar.information",
+    "historyLog": "sidebar.historyLog"
+  },
+  "snacks": {
+    "dialysisMachineHasBeenAdded": "snacks.dialysisMachineHasBeenAdded",
+    "dialysisMachineHasNotBeenAdded": "snacks.dialysisMachineHasNotBeenAdded",
+    "dialysisMachineHasBeenUpdated": "snacks.dialysisMachineHasBeenUpdated",
+    "dialysisMachineHasNotBeenUpdated": "snacks.dialysisMachineHasNotBeenUpdated"
+  },
+  "data": {
+    "general": "data.general",
+    "condition": "data.condition",
+    "maintenance": "data.maintenance",
+    "warranty": "data.warranty",
+    "equipmentName": "equipment data.name",
+    "serialNumber": "serial data.number",
+    "model": "data.model",
+    "brand": "data.brand",
+    "communicationType": "data.communicationType",
+    "slots": "data.slots",
+    "description": "data.equipmentDescription",
+    "status": "data.status",
+    "commissionDate": "data.commissionDate",
+    "infectionStatus": "data.infectionStatus",
+    "connectedBay": "data.connectedBay",
+    "underMaintenance": "data.underMaintenance",
+    "dateOfPreventiveMaintenance": "data.dateOfPreventiveMaintenance",
+    "underWarranty": "data.underWarranty",
+    "warrantyDateRange": "data.warrantyDateRange"
+  }
+}

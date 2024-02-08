@@ -1,0 +1,10 @@
+{
+  "PERMANENT": "Permanent",
+  "WALK_IN": "Walk-in",
+  "VISITING": "Visiting",
+  "ACUTE": "Acute",
+  "DISCHARGED": "Discharged",
+  "TEMPORARY_TRANSFERRED": "Temporary transferred",
+  "HOSPITALIZED": "Hospitalized",
+  "DEAD": "Dead"
+}

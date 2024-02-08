@@ -1,0 +1,28 @@
+{
+  "MONDAY": "Mon",
+  "TUESDAY": "Tue",
+  "WEDNESDAY": "Wed",
+  "THURSDAY": "Thu",
+  "FRIDAY": "Fri",
+  "SUNDAY": "Sun",
+  "SATURDAY": "Sat",
+
+  "SATURDAY_MONDAY": "Sat, Mon",
+  "SATURDAY_WEDNESDAY": "Sat, Wed",
+  "SUNDAY_TUESDAY": "Sun, Tue",
+  "SUNDAY_THURSDAY": "Sun, Thu",
+  "MONDAY_WEDNESDAY": "Mon, Wed",
+  "MONDAY_FRIDAY": "Mon, Fri",
+  "WEDNESDAY_FRIDAY": "Wed, Fri",
+  "THURSDAY_SATURDAY": "Thu, Sat",
+  "TUESDAY_THURSDAY": "Tue, Thu",
+  "TUESDAY_SATURDAY": "Tue, Sat",
+
+  "SATURDAY_MONDAY_WEDNESDAY": "Sat, Mon, Wed",
+  "SUNDAY_TUESDAY_THURSDAY": "Sun, Tue, Thu",
+  "MONDAY_WEDNESDAY_FRIDAY": "Mon, Wed, Fri",
+  "TUESDAY_THURSDAY_SATURDAY": "Tue, Thu, Sat",
+
+  "MONDAY_TUESDAY_WEDNESDAY_THURSDAY_FRIDAY_SATURDAY": "Mon, Tue, Wed, Thu, Fri, Sat",
+  "SUNDAY_MONDAY_TUESDAY_WEDNESDAY_THURSDAY_SATURDAY": "Sun, Mon, Tue, Wed, Thu, Sat"
+}

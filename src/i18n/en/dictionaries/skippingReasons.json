@@ -1,0 +1,7 @@
+{
+  "PATIENT_REQUEST": "Preliminary patient's request",
+  "PATIENT_WAS_HOSPITALIZED": "Patient was hospitalized",
+  "TRANSFERRED": "Temporary transferred",
+  "PATIENT_WAS_ABSENT": "Patient is no show - chargeable",
+  "TECHNICAL_ISSUE": "Technical issues"
+}

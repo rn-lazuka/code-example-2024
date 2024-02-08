@@ -1,0 +1,42 @@
+{
+  "dialyzers": "dialyzers",
+  "tableView": {
+    "utilizationMethod": "tableView.utilizationMethod",
+    "brand": "tableView.brand",
+    "useType": "tableView.useType",
+    "surfaceArea": "tableView.surfaceArea",
+    "firstUsed": "tableView.firstUsed",
+    "status": "tableView.status",
+    "reuse": "tableView.reuse",
+    "single": "tableView.single",
+    "new": "tableView.new",
+    "enteredBy": "tableView.enteredBy",
+    "editedBy": "tableView.editedBy",
+    "disposedBy": "tableView.disposedBy",
+    "m2": "m²"
+  },
+  "firstUsed": "firstUsed",
+  "useNumber": "useNumber",
+  "historyOfUse": "historyOfUse",
+  "newDialyzer": "newDialyzer",
+  "addNewDialyzer": "addNewDialyzer",
+  "addDialyzer": "addDialyzer",
+  "date": "date",
+  "statuses": {
+    "ACTIVE": "statuses.ACTIVE",
+    "DISPOSED": "statuses.DISPOSED"
+  },
+  "hasAdded": "hasAdded",
+  "noActiveDialyzers": "noActiveDialyzers",
+  "cannotEditDelete": "cannotEditDelete",
+  "deleteDialyzer": "deleteDialyzer",
+  "hasBeenDeleted": "hasBeenDeleted",
+  "manageDialyzres": "manageDialyzres",
+  "changeDialyzer": "changeDialyzer",
+  "disposeOf": "disposeOf",
+  "editDialyzer": "Edit dialyzer",
+  "youWantToDispose": "youWantToDispose",
+  "notAvailable": "notAvailable",
+  "hasBeenDisposed": "hasBeenDisposed",
+  "disposeOfAfterUse": "Dispose of after use"
+}

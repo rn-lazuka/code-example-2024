@@ -1,0 +1,9 @@
+{
+  "ROLE_SUPERADMIN": "Superadmin",
+  "ROLE_SYSTEM_TENANT": "System tenant",
+  "ROLE_NURSE": "Nurse",
+  "ROLE_DOCTOR": "Doctor",
+  "ROLE_NURSE_MANAGER": "Nurse manager",
+  "ROLE_FRONT_DESK_ADMIN": "Front-desk administrator",
+  "ROLE_FINANCIAL_SPECIALIST": "Financial specialist"
+}

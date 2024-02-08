@@ -1,0 +1,6 @@
+types/bootstrap.d.ts
+types/service-worker.d.ts
+types/serviceWorkerRegistration.d.ts
+types/index.ts
+types/tests
+types/i18n

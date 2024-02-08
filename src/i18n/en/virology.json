@@ -1,0 +1,18 @@
+{
+  "tableView": {
+    "virology": "Virology",
+    "date": "Date",
+    "hivAndAgAb": "HIV 1 and 2 Ag/Ab",
+    "hepatitisBSurface": "Hepatitis B Surface antigen-HBsAg",
+    "hepatitisCAntibody": "Hepatitis C antibody (Total)-anti-HCV",
+    "hepatitisBSurfaceAntibody": "Hepatitis B Surface antibody-HBsAb (IU/L)",
+    "hepatitisBVaccineInjection": "Hepatitis B vaccine 20 mcg per 1 mL injection",
+    "injectionsDose": "{{amount}} injection(s) {{dose}} dose",
+    "note": "Notes"
+  },
+  "snack": {
+    "noteHasBeenCreated": "Note has been created",
+    "noteHasBeenChanged": "Note has been changed",
+    "noteHasBeenDeleted": "Note has been deleted"
+  }
+}

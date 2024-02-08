@@ -1,0 +1,10 @@
+{
+  "BLOOD": "Blood",
+  "URINE": "Urine",
+  "FAECES": "Faeces",
+  "SWAB": "Swab",
+  "SPUTUM": "Sputum",
+  "FLUIDS": "Fluids",
+  "BLOOD_CULTURE_VIAL": "Blood (culture vial)",
+  "OTHER": "Other"
+}

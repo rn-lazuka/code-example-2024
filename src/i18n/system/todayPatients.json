@@ -1,0 +1,39 @@
+{
+  "todayPatients": "todayPatients",
+  "noTodayPatients": "noTodayPatients",
+  "injections": {
+    "injections": "injections.injections"
+  },
+  "tableView": {
+    "hdProgress": "HD progress",
+    "patientName": "tableView.patientName",
+    "bay": "tableView.bay",
+    "startTime": "tableView.startTime",
+    "endTime": "tableView.endTime",
+    "isolation": "tableView.isolation",
+    "continue": "tableView.continue",
+    "specialNotes": "tableView.specialNotes",
+    "labTests": "tableView.labTests",
+    "medicationsChanges": "tableView.medicationsChanges",
+    "isolator": "tableView.isolator",
+    "status": "tableView.status",
+    "time": "tableView.time",
+    "na": "tableView.na",
+    "idwg": "tableView.idwg"
+  },
+  "injectionsTableView": {
+    "patientName": "injectionTableView.patientName",
+    "bay": "injectionTableView.bay",
+    "todayInjections": "injectionTableView.todayInjections",
+    "prepared": "injectionTableView.prepared",
+    "status": "injectionTableView.status",
+    "amount": "injectionTableView.amount"
+  },
+  "filter": {
+    "ALL": "filter.ALL",
+    "WAIT_LIST": "filter.WAITLIST",
+    "IN_PROGRESS": "filter.IN_PROGRESS",
+    "COMPLETED": "filter.COMPLETED",
+    "CANCELLED": "filter.CANCELLED"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "tableView": {
+    "patientName": "Patient name",
+    "branch": "Branch",
+    "dateOfCreation": "Date of creation",
+    "accessCategory": "Access category",
+    "typeOfAccess": "Type of access (VA)",
+    "category": "Category (CVC)",
+    "side": "Side",
+    "needleType": "Needle type",
+    "needleSizeA": "Needle size A",
+    "needleSizeV": "Needle size V",
+    "instillationCVC": "Instillation (CVC)",
+    "createdBy": "Created by",
+    "createdAt": "Created at",
+    "comments": "Comments"
+  },
+  "filters": {
+    "date": "Date",
+    "Vascular": "Vascular",
+    "AVF": "AVF",
+    "AVG": "AVG",
+    "CVC": "CVC",
+    "PERMANENT": "Permanent",
+    "TEMPORARY": "Temporary"
+  }
+}

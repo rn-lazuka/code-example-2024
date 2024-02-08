@@ -1,0 +1,13 @@
+{
+  "Anti-Cholesterol": "antiCholesterol",
+  "Anti-Diabetic": "antiCholesterol",
+  "Anti-Hypertensive": "antiHypertensive",
+  "Anti-Platelet": "antiPlatelet",
+  "Anti-Ulcer": "antiUlcer",
+  "Diuretics": "diuretics",
+  "EPO": "epo",
+  "Iron": "iron",
+  "Phosphate Binders": "phosphateBinders",
+  "Vitamin D": "vitaminD",
+  "Vitamins": "vitamins"
+}

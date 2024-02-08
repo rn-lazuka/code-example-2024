@@ -1,0 +1,11 @@
+{
+  "negO": "0 (I) Rh -",
+  "posO": "0 (I) Rh +",
+  "negA": "A (II) Rh -",
+  "posA": "A (II) Rh +",
+  "negB": "B (III) Rh -",
+  "posB": "B (III) Rh +",
+  "negAB": "AB (IV) Rh -",
+  "posAB": "AB (IV) Rh +",
+  "unknown": "Unknown"
+}

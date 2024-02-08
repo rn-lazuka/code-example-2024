@@ -1,0 +1,34 @@
+{
+  "profile": "profile",
+  "login": "login",
+  "gender": "gender",
+  "responsibilities": "responsibilities",
+  "name": "name",
+  "documentType": "documentType",
+  "role": "role",
+  "profRegNumber": "profRegNumber",
+  "userPhoto": "userPhoto",
+  "modal": {
+    "name": "modal.name",
+    "login": "modal.login",
+    "role": "modal.role",
+    "responsibilities": "modal.responsibilities",
+    "profRegNumber": "modal.profRegNumber",
+    "uploadFiles": "modal.uploadFiles",
+    "staffUserInfoUpdated": "modal.staffUserInfoUpdated",
+    "updateFailed": "modal.updateFailed",
+    "userHasNotBeenUpdated": "modal.updateFailed",
+    "editUser": "modal.editUser"
+  },
+  "table": {
+    "name": "table.name",
+    "documentType": "table.document",
+    "gender": "table.gender",
+    "role": "table.roles",
+    "responsibilities": "table.responsibilities"
+  },
+  "filter": {
+    "ALL": "filter.all",
+    "enterName": "filter.enterName"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "dialyzers": "Dialyzers",
+  "tableView": {
+    "utilizationMethod": "Utilization method",
+    "brand": "Brand",
+    "useType": "Use type",
+    "surfaceArea": "Surface area",
+    "firstUsed": "First used",
+    "status": "Status",
+    "reuse": "Reuse",
+    "single": "Single use",
+    "new": "New",
+    "enteredBy": "Entered by",
+    "editedBy": "Edited by",
+    "disposedBy": "Disposed by",
+    "m2": "m²"
+  },
+  "firstUsed": "First used (date of first using)",
+  "useNumber": "Use number",
+  "historyOfUse": "History of use",
+  "newDialyzer": "New dialyzer",
+  "addNewDialyzer": "Add new dialyzer",
+  "addDialyzer": "Add dialyzer",
+  "date": "Date",
+  "statuses": {
+    "ACTIVE": "Active",
+    "DISPOSED": "Disposed"
+  },
+  "hasAdded": "Dialyzer has been added",
+  "noActiveDialyzers": "No active dialyzer",
+  "cannotEditDelete": "You can not edit or delete the dialyzer because it has already been used",
+  "deleteDialyzer": "Are you sure you want to delete the dialyzer?",
+  "hasBeenDeleted": "Dialyzer has been deleted",
+  "manageDialyzres": "You can manage dialyzers at the Patient profile, section «Dialyzers»",
+  "changeDialyzer": "Dialyzer has been changed",
+  "disposeOf": "Dispose of",
+  "editDialyzer": "Edit dialyzer",
+  "youWantToDispose": "Are you sure you want to dispose of the dialyzer?",
+  "notAvailable": "It will be not available for subsequent dialysis procedures",
+  "hasBeenDisposed": "Dialyzer has been disposed",
+  "disposeOfAfterUse": "Dispose of after use"
+}

@@ -1,0 +1,51 @@
+import {
+  AccessManagementStatuses,
+  AccessCategory,
+  AccessSide,
+  CvcTimeCategory,
+  Instillation,
+  NeedleSize,
+  NeedleType,
+  VascularAccessType,
+} from '@enums';
+import type { AccessManagement } from '@types';
+
+export const accessManagementFixture: AccessManagement[] = [
+  {
+    accessCategory: AccessCategory.CVC,
+    arterialVolume: '2.2',
+    category: CvcTimeCategory.Temporary,
+    comments: 'comments',
+    enteredAt: '2022-12-29',
+    enteredBy: { id: '2', name: 'John Boue' },
+    id: '18048',
+    instillation: { code: Instillation.Heparin },
+    side: AccessSide.Right,
+    venousVolume: '2.1',
+    creationDate: '2022-12-28',
+    insertionDate: '2022-12-15',
+    status: AccessManagementStatuses.ACTIVE,
+    wasUsed: false,
+  },
+  {
+    accessCategory: AccessCategory.VascularAccess,
+    createdAtPlace: 'createdAtPlace',
+    createdAtPlaceBy: 'createdAtPlaceBy',
+    creationDate: '2022-12-29',
+    editedAt: '2022-12-28',
+    enteredAt: '2022-12-28',
+    enteredBy: { id: '2', name: 'John Boue' },
+    id: '16834',
+    needle: {
+      type: NeedleType.BluntAVF,
+      arterialSize: NeedleSize.Gauge17,
+      venousSize: NeedleSize.Gauge16,
+    },
+    note: 'note',
+    side: AccessSide.Left,
+    type: VascularAccessType.AVF,
+    status: AccessManagementStatuses.DISCONTINUED,
+    wasUsed: true,
+    comments: 'VascularAccess comments',
+  },
+];

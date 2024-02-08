@@ -1,0 +1,18 @@
+{
+  "tableView": {
+    "virology": "tableView.virology",
+    "date": "tableView.date",
+    "hivAndAgAb": "tableView.hivAndAgAb",
+    "hepatitisBSurface": "tableView.hepatitisBSurface",
+    "hepatitisCAntibody": "tableView.hepatitisCAntibody",
+    "hepatitisBSurfaceAntibody": "tableView.hepatitisBSurfaceAntibody",
+    "hepatitisBVaccineInjection": "tableView.hepatitisBVaccineInjection",
+    "injectionsDose": "tableView.injectionsDose",
+    "note": "tableView.note"
+  },
+  "snack": {
+    "noteHasBeenCreated": "snack.noteHasBeenCreated",
+    "noteHasBeenChanged": "snack.noteHasBeenChanged",
+    "noteHasBeenDeleted": "snack.noteHasBeenDeleted"
+  }
+}

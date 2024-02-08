@@ -1,0 +1,50 @@
+{
+  "dialysisMachines": "Dialysis Machines",
+  "nonInfection": "Non-infectious",
+  "table": {
+    "name": "name",
+    "status": "status",
+    "serialNumber": "serial number",
+    "model": "model",
+    "brand": "brand",
+    "connectedBay": "connected bay",
+    "warranty": "warranty",
+    "infectionStatus": "infection status"
+  },
+  "form": {
+    "title": "Dialysis machine",
+    "generalInformation": "General Information",
+    "condition": "Condition",
+    "maintenanceDateRange": "Maintenance date range",
+    "onceTheDmIsSavedInTheInfectiousStatus": "Once the DM is saved in the Infectious status, it can't be changed to Non-infectious status again",
+    "warrantyDateRange": "Warranty date range",
+    "comments": "Comments",
+    "fields": {
+      "equipmentName": "Equipment name",
+      "serialNumber": "Serial number",
+      "model": "Model",
+      "brand": "Brand",
+      "communicationType": "Communication type",
+      "slots": "Slots",
+      "equipmentDescription": "Equipment description",
+      "status": "Status",
+      "commissionedDate": "Commissioned date",
+      "infectionStatus": "Infection status",
+      "connectedBay": "Connected bay",
+      "from": "From",
+      "to": "To",
+      "comments": "Comments"
+    }
+  },
+  "snacks": {
+    "hasBeenAdded": "Dialysis machine has been added",
+    "hasBeenChanged": "Dialysis machine has been changed"
+  },
+  "machineStatuses": {
+    "active": "Active",
+    "underRepair": "Under repair",
+    "retired": "Retired",
+    "standby": "Standby",
+    "spare": "Spare"
+  }
+}
